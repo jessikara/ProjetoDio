@@ -1,6 +1,9 @@
 #  DIO CALCULADORA INVESTIMENTOS
 CALCULADORA DE INVESTIMENTOS (PROJETO DIO)
 
+![Image](https://github.com/user-attachments/assets/0d495434-4e5a-47f0-bcef-e9bb958ee2af)
+![Image](https://github.com/user-attachments/assets/fdb49c41-7b63-4018-a2ae-282e4e1e0325)
+
 
 Este repositório reúne o **desafio de projeto** que desenvolvi durante minha participação no bootcamp **Santander - Excel com Inteligência Artificial**, promovido pela [DIO](https://www.dio.me/) em parceria com o **Santander**.
 
