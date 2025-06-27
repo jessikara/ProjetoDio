@@ -1,4 +1,4 @@
-#  DIO CALCULADORA INVESTIMENTOS
+#  DIO SIMULA INVESTIMENTOS
 CALCULADORA DE INVESTIMENTOS (PROJETO DIO)
 
 ![Image](https://github.com/user-attachments/assets/0d495434-4e5a-47f0-bcef-e9bb958ee2af)
